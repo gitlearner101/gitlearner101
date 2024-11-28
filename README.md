@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Syed Suhaib Ahmed Khair</h1>
 <h3 align="center">learning git</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlearner101&label=Profile%20views&color=0e75b6&style=flat" alt="gitlearner101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitlearner101" alt="gitlearner101" /></a> </p>
